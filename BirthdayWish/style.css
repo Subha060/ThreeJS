@@ -53,10 +53,11 @@ body {
   width: 85%;
   border-radius: 50px;
   padding: 10px 40px;
-  border: 10px solid rgba(255, 241, 241, 0.599);
-  backdrop-filter: blur(8px);
+  border: 2px solid rgba(255, 241, 241, 0.599);
+  backdrop-filter: blur(15px);
   display: flex;
   flex-direction: column;
+  box-shadow: 2px 5px 50px 0px #0005;
   gap: 40px;
 }
 
