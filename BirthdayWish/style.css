@@ -57,7 +57,7 @@ body {
   backdrop-filter: blur(15px);
   display: flex;
   flex-direction: column;
-  box-shadow: 2px 5px 50px 0px #0005;
+  /* box-shadow: 2px 5px 50px 0px #0005; */
   gap: 40px;
 }
 
