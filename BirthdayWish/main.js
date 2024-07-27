@@ -93,7 +93,7 @@ control.update();
 
 // Create a quaternion for rotation
 const quaternion = new THREE.Quaternion();
-const axis = new THREE.Vector3(0, 0, 0); // Rotate around the Y-axis
+const axis = new THREE.Vector3(0, 1, 0); // Rotate around the Y-axis
 const angle = 0.01; // Rotation angle per frame
 
 // Animation loop
